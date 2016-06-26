@@ -1,0 +1,5 @@
+# T?t ch?c nang hi?n th? thu m?c
+Options All -Indexes
+
+# Không cho phép hi?n th? thu m?c
+IndexIgnore *
